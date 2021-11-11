@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T08:21:52.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="kMgMteU5oQJ9cqol5d4o" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T08:22:59.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="QbIJ1aNRBhl8smkuNkED" version="15.7.3" type="github">
   <diagram id="Ggjxi0L5vSjyioqAvVtX" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="ZajMOAxJXT_E6iLhtyOF-6" value="深圳通乘车码测试环境&lt;br&gt;10.31.0.0/16(主)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="210" y="940" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZajMOAxJXT_E6iLhtyOF-12" value="对等链接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1050" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZajMOAxJXT_E6iLhtyOF-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;strokeColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
